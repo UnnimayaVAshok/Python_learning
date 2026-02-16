@@ -31,26 +31,39 @@ To improve my Python fundamentals and consistently practice coding while learnin
 Topics Covered:
 
 Taking numeric input
-
 Type conversion using int()
-
 Performing arithmetic operations
-
 Understanding common errors
 
 Handling exceptions using:
-
 try
-
 except
-
 finally
+
+Working with date and time using the datetime module:
+Performing date calculations using timedelta
+Parsing user-input dates using strptime()
+
+Extracting:
+Day
+Month
+Year
 
 🧠 What I Practiced
 
 Converting string input to integer
-
 Handling ZeroDivisionError
+Getting current date and time using datetime.now()
+
+Calculating:
+Yesterday’s date
+Last week’s date
+Taking birthday input in dd/mm/yyyy format
+
+Extracting individual date components using:
+.day
+.month
+.year
 
 Writing safe and crash-free programs
 
