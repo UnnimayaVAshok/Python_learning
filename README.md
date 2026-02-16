@@ -68,3 +68,30 @@ Extracting individual date components using:
 Writing safe and crash-free programs
 
 More updates coming soon!
+
+📌 Day 3 – Conditional Statements & Decision Making
+🧠 Topics Covered
+Basic if-else statements
+Using elif for multiple conditions
+Nested if statements
+Membership operator (in)
+Logical operators:
+and
+or
+Case-insensitive comparison using .lower()
+
+💻 What I Practiced
+Voting eligibility check based on age
+Grade classification system using marks
+Degree eligibility verification using nested conditions
+Using tuple membership to simplify multiple comparisons
+Combining conditions using logical operators
+
+🚀 Learning Outcome
+Through Day 3 practice, I learned:
+How decision-making works in Python
+How Python evaluates multiple conditions
+How nested if statements work
+How logical operators affect program flow
+Writing structured and readable conditional logic
+
