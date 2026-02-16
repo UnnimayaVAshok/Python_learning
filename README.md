@@ -26,6 +26,32 @@ Topics Covered:
 
 To improve my Python fundamentals and consistently practice coding while learning Git and GitHub.
 
----
+📌 Day 2 – Numbers & Exception Handling
+
+Topics Covered:
+
+Taking numeric input
+
+Type conversion using int()
+
+Performing arithmetic operations
+
+Understanding common errors
+
+Handling exceptions using:
+
+try
+
+except
+
+finally
+
+🧠 What I Practiced
+
+Converting string input to integer
+
+Handling ZeroDivisionError
+
+Writing safe and crash-free programs
 
 More updates coming soon!
