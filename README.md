@@ -95,3 +95,57 @@ How nested if statements work
 How logical operators affect program flow
 Writing structured and readable conditional logic
 
+📘 Day 4 – Python Practice
+📌 Topics Covered
+On Day 4, I practiced important Python fundamentals including:
+Lists
+Arrays
+Dictionaries
+Functions
+Loops
+
+📂 Files Included
+1️⃣ collection_practice.py
+Concepts Practiced:
+List operations (adding, reversing, searching, removing elements)
+Understanding that lists are mutable and heterogeneous
+Working with arrays and understanding homogeneous data storage
+Performing basic array operations
+Creating and updating dictionaries
+Accessing dictionary values using key-based methods
+Key Learning:
+Difference between list and array
+Mutable data structures
+Key-value pair storage in dictionaries
+
+2️⃣ function.py
+Concepts Practiced:
+Function without parameters
+Function with parameters
+Function with default (optional) parameter
+Returning values from functions
+Type conversion inside functions
+Key Learning:
+How functions improve code reusability
+Parameter passing
+Default arguments
+
+3️⃣ loop.py
+Concepts Practiced:
+For loop with range
+While loop with condition
+Incrementing variables inside loops
+Key Learning:
+Iteration control
+Loop execution flow
+Condition-based repetition
+
+🎯 Learning Outcome
+Stronger understanding of Python collections
+Clear difference between mutable and homogeneous data types
+Better grasp of function structure and parameters
+Improved confidence in using loops
+
+🚀 Progress
+✔ Day 4 Completed
+📚 Continuing daily Python practice
